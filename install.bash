@@ -42,4 +42,4 @@ bash install-unicycler.bash
 bash install-prokka.bash
 
 printf "\n\nInstallation complete!\n\n"
-printf "APPRENTICES, YOU ROCK!\n\n"
+printf "Apprentices, YOU ROCK!\n\n"

@@ -24,3 +24,9 @@ directory (e.g. `/home/nickpestell`):
 - `git clone https://github.com/nick-pestell/apprentice-install.git`
 - `cd apprentice-install`
 - `bash install.bash`
+
+If ran with no errors the final output should be:
+
+- `Installation complete!`
+- `Apprentices, YOU ROCK!`
+
