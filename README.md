@@ -28,6 +28,6 @@ directory (e.g. `/home/nickpestell`):
 If ran with no errors the final output should be:
 
 ```
-Installation complete!`
-Apprentices, YOU ROCK!`
+Installation complete!
+Apprentices, YOU ROCK!
 ```
