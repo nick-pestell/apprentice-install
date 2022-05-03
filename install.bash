@@ -23,6 +23,7 @@ sudo apt-get -y update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y
 	ncbi-blast+
 
 sudo echo yes | cpan Bio::Perl
+sudo cpan Bio::SearchIO::hmmer3
 
 #python
 pip3 install setuptools multiqc
