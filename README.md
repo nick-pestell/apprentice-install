@@ -5,12 +5,13 @@ Install scripts for APHA bioinformatics apprentice project.
 The scripts within this repository will automatically download and install the required software for
 the APHA bioinformatics project. These are:
 
-- `nextflow`
-- `fastqc`
-- `trimmomatic`
-- `unicycler`
-- `prokka`
-- `multiqc`
+- [Nextflow](https://github.com/nextflow-io/nextflow)
+- [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+- [fastp](https://github.com/OpenGene/fastp)
+- [Trimmomatic](https://github.com/usadellab/Trimmomatic)
+- [Unicycler](https://github.com/rrwick/Unicycler)
+- [prokka](https://github.com/tseemann/prokka)
+- [MultiQC](https://github.com/ewels/MultiQC)
 
 along with all of their depedencies.
 
