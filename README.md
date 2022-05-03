@@ -20,11 +20,11 @@ along with all of their depedencies.
 To dowload and run the install script, execute the following commands from within your user home
 directory (e.g. `/home/nickpestell`):
 
-- `sudo apt-get update`
-- `sudo apt-get install git`
-- `git clone https://github.com/nick-pestell/apprentice-install.git`
-- `cd apprentice-install`
-- `bash install.bash`
+1. `sudo apt-get update`
+2. `sudo apt-get install git`
+3. `git clone https://github.com/nick-pestell/apprentice-install.git`
+4. `cd apprentice-install`
+5. `bash install.bash`
 
 If ran with no errors the final output should be:
 
