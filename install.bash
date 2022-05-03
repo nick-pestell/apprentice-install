@@ -36,6 +36,7 @@ cd $BIOTOOLS_PATH
 
 bash install-nextflow.bash
 bash install-fastqc.bash
+bash install-fastp.bash
 bash install-trimmomatic.bash
 bash install-spades.bash
 bash install-unicycler.bash
