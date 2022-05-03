@@ -2,7 +2,7 @@
 
 Install scripts for APHA bioinformatics apprentice project.
 
-The scripts within this repository will automatically download and install the rquired software for
+The scripts within this repository will automatically download and install the required software for
 the APHA bioinformatics project. These are:
 
 - `nextflow`
