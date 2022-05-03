@@ -19,7 +19,8 @@ sudo apt-get -y update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y
 	libdigest-md5-perl \
 	bioperl \
 	python3 \
-	python3-pip
+	python3-pip \
+	ncbi-blast+
 
 sudo echo yes | cpan Bio::Perl
 
@@ -37,7 +38,6 @@ bash install-nextflow.bash
 bash install-fastqc.bash
 bash install-trimmomatic.bash
 bash install-spades.bash
-bash install-blast+.bash
 bash install-unicycler.bash
 bash install-prokka.bash
 
