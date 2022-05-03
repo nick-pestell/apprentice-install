@@ -25,6 +25,7 @@ sudo echo yes | cpan Bio::Perl
 
 #python
 pip3 install setuptools multiqc
+sudo ln -s /usr/bin/python3 /usr/bin/python
 
 ################## BIOTOOLS ######################
 
@@ -39,3 +40,6 @@ bash install-spades.bash
 bash install-blast+.bash
 bash install-unicycler.bash
 bash install-prokka.bash
+
+printf "\n\nInstallation complete!\n\n"
+printf "APPRENTICES, YOU ROCK!\n\n"
