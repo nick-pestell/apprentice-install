@@ -17,10 +17,10 @@ along with all of their depedencies.
 ## Installation
 
 To dowload and run the install script, execute the following commands from within your user home
-directory (e.g. `/home/nickpestell`).
+directory (e.g. `/home/nickpestell`):
 
-`sudo apt-get update`
-`sudo apt-get install git`
-`git clone https://github.com/nick-pestell/apprentice-install.git`
-`cd apprentice-install`
-`bash install.bash`
+- `sudo apt-get update`
+- `sudo apt-get install git`
+- `git clone https://github.com/nick-pestell/apprentice-install.git`
+- `cd apprentice-install`
+- `bash install.bash`
