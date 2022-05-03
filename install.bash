@@ -39,4 +39,3 @@ bash install-spades.bash
 bash install-blast+.bash
 bash install-unicycler.bash
 bash install-prokka.bash
-bash install-multiqc.bash
